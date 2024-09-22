@@ -1,27 +1,27 @@
 # Diet-planner-website
-This is the Diet planner website made using HTML,CSS and Javascript as front-end and NodeJS and express as backend. For data base I use MYSQL.
+This is the Diet planner website made using HTML,CSS and Javascript as front-end and NodeJS and express as backend. For data base we have used MYSQL.
 
 The code of MySQL in the "Data base" file.
 copy and paste in the MYSQL workbench
 
 
-# Follw the following steps to run this project to your device
+# Follow the following steps to run this project to your device :-
 
 # Step 1
 
-1. First download the MySQL and setup it remeber the name of the data base "root" and password "123456789".
+1. First download the MySQL and set it up remember the name of the data base "root" and password "123456789".
 2. Copy paste the code present in "Data base" file to your  MySQL workbench.
-3. Run the all queries in MySQL ignore the queries like "Drop table ----";
+3. Run the all queries in MySQL (ignore the queries like "Drop table ----";)
 
 # Step 2
 
-1. Clone the project and open the terminal and install the following packages:-
+1. Clone the project and open the terminal and install the following packages :-
 1. npm install node.js
 2. npm install mysql2
 3. npm install express
 4. npm install body-parser
 5. npm install path
-6. npm install nodmon
+6. npm install nodemon
    
 3. open package.json file copy paste this :-
  ![gitss1](https://github.com/user-attachments/assets/b5f437ac-33d9-4ad5-91ab-e4060400875b)
@@ -58,8 +58,8 @@ This is our first project so their will be some minor issues.
 
 
 # This is the team project
-Team member and their role
-1. Pushendra2020
+Team members and their roles :
+1. Pushendra2020.
 2. Role: Back-end and adding functionality.
-3. Soham
+3. Sohamm11.
 4. Role: Front-end and designing the website.
