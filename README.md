@@ -61,5 +61,5 @@ This is our first project so their might be some minor issues.
 Team members and their roles,
 1. Pushendra2020
 2. Role: Back-end and adding functionality.
-3. Sohamm11
+3. soham1111-jod
 4. Role: Front-end and designing the website.
